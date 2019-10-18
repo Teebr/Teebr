@@ -30,7 +30,7 @@ Unidecode==0.4.17
 urllib3==1.10
 webassets==0.9
 webassets-iife==0.1.0
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 git+https://github.com/coleifer/wtf-peewee.git
 git+https://github.com/dchest/pybayesantispam.git
 WTForms==2.0.2
