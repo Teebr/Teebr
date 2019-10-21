@@ -6,7 +6,7 @@ Flask-Admin==1.0.9
 Flask-Assets==0.9
 Flask-Babel==0.9
 Flask-OAuth==0.12
-gunicorn==18.0
+gunicorn==19.5.0
 httplib2==0.9
 itsdangerous==0.24
 Jinja2==2.7.3
