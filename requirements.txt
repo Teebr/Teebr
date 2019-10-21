@@ -18,7 +18,7 @@ oauthlib==0.7.2
 peewee==2.5.0
 pep8==1.5.7
 pytz==2014.10
-PyYAML==3.11
+PyYAML==5.1
 requests==2.4.3
 requests-oauthlib==0.4.1
 simplejson==3.6.5
