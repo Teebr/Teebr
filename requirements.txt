@@ -19,7 +19,7 @@ peewee==2.5.0
 pep8==1.5.7
 pytz==2014.10
 PyYAML==3.11
-requests==2.4.3
+requests==2.20.0
 requests-oauthlib==0.4.1
 simplejson==3.6.5
 six==1.7.3
